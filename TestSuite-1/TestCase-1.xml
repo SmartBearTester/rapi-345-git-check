@@ -6,7 +6,7 @@
   <con:testStep type="groovy" name="Groovy Script" id="3339130a-017e-4c2d-8d5b-97d4b44d3ec5">
     <con:settings/>
     <con:config>
-      <script>Log.info("Message")</script>
+      <script>Log.info("Local changes")</script>
     </con:config>
   </con:testStep>
   <con:properties/>
