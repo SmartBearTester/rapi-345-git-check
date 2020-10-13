@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation action="http://localhost/test_service/Service1.asmx/test_char" bindingOperationName="test_char" id="d152bef3-d210-4d45-acde-0a6145ab4f2b" inputName="" isOneWay="false" name="test_char" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:con="http://eviware.com/soapui/config">
+<con:operation action="http://localhost/test_service/Service1.asmx/test_char" bindingOperationName="test_char" id="d152bef3-d210-4d45-acde-0a6145ab4f2b" inputName="" isOneWay="false" name="test_char" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="d152bef3-d210-4d45-acde-0a6145ab4f2bfileName">test_char</con:setting>
   </con:settings>

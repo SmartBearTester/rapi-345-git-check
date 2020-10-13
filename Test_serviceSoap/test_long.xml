@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation action="http://localhost/test_service/Service1.asmx/test_long" bindingOperationName="test_long" id="c9888ae1-f016-401e-a91e-2a7a760ee3d2" inputName="" isOneWay="false" name="test_long" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:con="http://eviware.com/soapui/config">
+<con:operation action="http://localhost/test_service/Service1.asmx/test_long" bindingOperationName="test_long" id="c9888ae1-f016-401e-a91e-2a7a760ee3d2" inputName="" isOneWay="false" name="test_long" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="c9888ae1-f016-401e-a91e-2a7a760ee3d2fileName">test_long</con:setting>
   </con:settings>
