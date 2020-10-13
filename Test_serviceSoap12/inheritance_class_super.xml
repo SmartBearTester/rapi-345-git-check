@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="d8440493-2fee-42d3-bf5b-3ea458e34ada" isOneWay="false" action="http://localhost/test_service/Service1.asmx/inheritance_class_super" name="inheritance_class_super" bindingOperationName="inheritance_class_super" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="d8440493-2fee-42d3-bf5b-3ea458e34adafileName">inheritance_class_super</con:setting>
+  </con:settings>
+</con:operation>

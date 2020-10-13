@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="fe9c05f0-ac2b-44ee-ba77-7fd0963e2c9b" isOneWay="false" action="http://localhost/test_service/Service1.asmx/transfer_XML" name="transfer_XML" bindingOperationName="transfer_XML" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="fe9c05f0-ac2b-44ee-ba77-7fd0963e2c9bfileName">transfer_XML</con:setting>
+  </con:settings>
+</con:operation>
