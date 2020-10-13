@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:testCase id="1216f5c7-fcb3-4c25-a84e-665c5d95186c" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase 1" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+<con:testCase discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" id="1216f5c7-fcb3-4c25-a84e-665c5d95186c" keepSession="false" name="TestCase 1" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="1216f5c7-fcb3-4c25-a84e-665c5d95186cfileName">TestCase-1</con:setting>
   </con:settings>
-  <con:testStep type="groovy" name="Groovy Script" id="3339130a-017e-4c2d-8d5b-97d4b44d3ec5">
+  <con:testStep id="3339130a-017e-4c2d-8d5b-97d4b44d3ec5" name="Groovy Script" type="groovy">
     <con:settings/>
     <con:config>
       <script>Log.info("Local changes")</script>
