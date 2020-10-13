@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation action="http://localhost/test_service/Service1.asmx/Date" bindingOperationName="Date" id="7c7762e7-fcee-48a6-a034-6837164c87b4" inputName="" isOneWay="false" name="Date" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+<con:operation action="http://localhost/test_service/Service1.asmx/Date" bindingOperationName="Date" id="7c7762e7-fcee-48a6-a034-6837164c87b4" inputName="" isOneWay="false" name="Date" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="7c7762e7-fcee-48a6-a034-6837164c87b4fileName">Date</con:setting>
   </con:settings>

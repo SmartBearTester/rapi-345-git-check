@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation action="http://localhost/test_service/Service1.asmx/inheritance_class_super" bindingOperationName="inheritance_class_super" id="569dbb52-3762-4cbd-b9bd-3056eb6363c5" inputName="" isOneWay="false" name="inheritance_class_super" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+<con:operation action="http://localhost/test_service/Service1.asmx/inheritance_class_super" bindingOperationName="inheritance_class_super" id="569dbb52-3762-4cbd-b9bd-3056eb6363c5" inputName="" isOneWay="false" name="inheritance_class_super" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="569dbb52-3762-4cbd-b9bd-3056eb6363c5fileName">inheritance_class_super</con:setting>
   </con:settings>

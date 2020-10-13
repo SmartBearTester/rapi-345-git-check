@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation action="http://localhost/test_service/Service1.asmx/test_ulong" bindingOperationName="test_ulong" id="0493ae41-f4a0-4333-8ae0-e23a4696dbc4" inputName="" isOneWay="false" name="test_ulong" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+<con:operation action="http://localhost/test_service/Service1.asmx/test_ulong" bindingOperationName="test_ulong" id="0493ae41-f4a0-4333-8ae0-e23a4696dbc4" inputName="" isOneWay="false" name="test_ulong" receivesAttachments="false" sendsAttachments="false" type="Request-Response" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="0493ae41-f4a0-4333-8ae0-e23a4696dbc4fileName">test_ulong</con:setting>
   </con:settings>
